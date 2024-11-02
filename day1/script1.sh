@@ -10,3 +10,7 @@ echo " This is second line comment"
 echo "added line server one" 
 
 
+echo "added changed in feature branch"
+
+new line
+
