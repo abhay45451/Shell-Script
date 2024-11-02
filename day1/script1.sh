@@ -9,5 +9,4 @@ echo " This is second line comment"
 
 echo "added line server one" 
 
-echo "This is second line comment"
 
